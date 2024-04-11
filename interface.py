@@ -4,7 +4,6 @@ import pandas as pd
 import pickle
 import string 
 import nltk
-from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.tokenize import word_tokenize
 from nltk.stem import WordNetLemmatizer
 
